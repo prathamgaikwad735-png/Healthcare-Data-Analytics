@@ -8,36 +8,37 @@ The project includes a Jupyter Notebook analysis and a self-contained interactiv
 
 - This project analyzes healthcare patient records covering May 2019 to May 2024. The analysis focuses on patient volume, medical conditions, age distribution, treatment billing, insurance coverage, emergency admissions, and cases that may require management review.
 
-Key Project Metrics
+- Key Project Metrics
 
-KPI
+= KPI
 
-Value
+- Value
 
-Patient Records After Cleaning
+- Patient Records After Cleaning
 
-54,966
+ 54,966
 
-Average Billing Amount
+- Average Billing Amount
 
-25,594.54
+  25,594.54
 
-Average Patient Age
+- Average Patient Age
 
 51.5 years
 
-High-Cost Cases (> 90th Percentile)
+- High-Cost Cases (> 90th Percentile)
 
 5,497
 
-Emergency + Abnormal Test Result Cases
+- Emergency + Abnormal Test Result Cases
 
 6,038
-## Key Business Questions (KPIs)
 
-1. Which medical condition affects the most patients?
+# Key Business Questions (KPIs)
 
-Finding:
+## 1. Which medical condition affects the most patients?
+
+- Finding:
 
 Arthritis: 9,218 patients
 
@@ -53,31 +54,31 @@ Asthma: 9,095
 
 Management Insight: Arthritis has the highest patient count in the analyzed dataset, while Asthma has the lowest among the six listed conditions.
 
-2. How is patient age distributed across the network?
+## 2. How is patient age distributed across the network?
 
-Finding:
+- Finding:
 The average patient age is approximately 51.5 years.
 
 Management Insight: The patient population covers a broad age range, making age distribution useful for understanding healthcare demand across different patient groups.
 
-3. How has average treatment cost changed over time?
+## 3. How has average treatment cost changed over time?
 
-Finding:
+- Finding:
 Monthly average billing was analyzed across the May 2019–May 2024 reporting period.
 
 Management Insight: Monthly treatment-cost trends can help management monitor changes in average billing levels over time and identify periods that require further review.
 
-4. Is there a relationship between patient age and treatment cost?
+## 4. Is there a relationship between patient age and treatment cost?
 
 Finding:
 
-Overall average billing: 25,594.54
+- Overall average billing: 25,594.54
 
-Average billing for patients above 60 years: 25,529.85
+- Average billing for patients above 60 years: 25,529.85
 
 Management Insight: The average billing for patients above 60 is slightly below the overall average in this dataset. The age-versus-billing relationship was also examined through a patient-level scatter analysis.
 
-5. Which insurance provider covers the most patients?
+## 5. Which insurance provider covers the most patients?
 
 Finding:
 
