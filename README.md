@@ -1,15 +1,12 @@
-# Healthcare-Data-Analytics
-Healthcare Data Analytics project with Jupyter Notebook analysis and interactive executive dashboard.
+# Healthcare Data Analytics
 
-Healthcare Data Analytics
-
-An end-to-end Healthcare Data Analytics project focused on understanding patient demographics, medical conditions, treatment billing, insurance coverage, emergency admissions, and high-priority cases.
+- An end-to-end Healthcare Data Analytics project focused on understanding patient demographics, medical conditions, treatment billing, insurance coverage, emergency admissions, and high-priority cases.
 
 The project includes a Jupyter Notebook analysis and a self-contained interactive Executive Dashboard built from the analysis results.
 
 ## Project Overview
 
-This project analyzes healthcare patient records covering May 2019 to May 2024. The analysis focuses on patient volume, medical conditions, age distribution, treatment billing, insurance coverage, emergency admissions, and cases that may require management review.
+- This project analyzes healthcare patient records covering May 2019 to May 2024. The analysis focuses on patient volume, medical conditions, age distribution, treatment billing, insurance coverage, emergency admissions, and cases that may require management review.
 
 Key Project Metrics
 
