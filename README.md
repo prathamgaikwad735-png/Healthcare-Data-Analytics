@@ -4,13 +4,18 @@
 
 The project includes a Jupyter Notebook analysis and a self-contained interactive Executive Dashboard built from the analysis results.
 
+
+# Open Interactive Dashboard
+
+View Healthcare Executive Dashboard → https://prathamgaikwad735-png.github.io/Healthcare-Data-Analytics/healthcare_executive_dashboard.html
+
 ## Project Overview
 
 - This project analyzes healthcare patient records covering May 2019 to May 2024. The analysis focuses on patient volume, medical conditions, age distribution, treatment billing, insurance coverage, emergency admissions, and cases that may require management review.
 
 - Key Project Metrics
 
-= KPI
+- KPI
 
 - Value
 
