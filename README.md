@@ -219,7 +219,7 @@ Gender
 
 Admission Date / Year
 
-# Dashboard Images
+# Dashboard Overview
 
 <img width="1355" height="636" alt="image" src="https://github.com/user-attachments/assets/51fa14a3-5b70-4edf-b4a1-c4a9ac0103ef" />
 
