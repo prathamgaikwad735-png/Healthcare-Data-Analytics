@@ -18,27 +18,27 @@ View Healthcare Executive Dashboard → https://prathamgaikwad735-png.github.io/
 
 - Key Project Metrics
 
-- KPI
+KPI
 
-- Value
+Value
 
-- Patient Records After Cleaning
+Patient Records After Cleaning
 
  54,966
 
-- Average Billing Amount
+Average Billing Amount
 
   25,594.54
 
-- Average Patient Age
+ Average Patient Age
 
 51.5 years
 
-- High-Cost Cases (> 90th Percentile)
+High-Cost Cases (> 90th Percentile)
 
 5,497
 
-- Emergency + Abnormal Test Result Cases
+Emergency + Abnormal Test Result Cases
 
 6,038
 
@@ -241,7 +241,7 @@ Arthritis has the highest patient count at 9,218.
 
 The average patient age is approximately 51.5 years.
 
-- Billing Insights
+## Billing Insights
 
 Average billing amount is 25,594.54.
 
@@ -249,7 +249,7 @@ Patients above 60 years have an average billing amount of 25,529.85.
 
 5,497 cases fall above the 90th percentile of billing and were identified as high-cost cases for review.
 
-- Insurance Insights
+## Insurance Insights
 
 Cigna covers the highest number of patients with 11,139 records.
 
@@ -279,7 +279,7 @@ Prioritize emergency cases with abnormal test results for appropriate review.
 
 Track insurance-provider patient distribution to understand the overall coverage mix.
 
-🏁 Conclusion
+ Conclusion
 
 This Healthcare Data Analytics project converts patient-level healthcare data into actionable management insights.
 
