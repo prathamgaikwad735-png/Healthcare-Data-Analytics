@@ -16,7 +16,7 @@ View Healthcare Executive Dashboard → https://prathamgaikwad735-png.github.io/
 
 - This project analyzes healthcare patient records covering May 2019 to May 2024. The analysis focuses on patient volume, medical conditions, age distribution, treatment billing, insurance coverage, emergency admissions, and cases that may require management review.
 
-- Key Project Metrics
+## Key Project Metrics
 
 KPI
 
@@ -46,7 +46,7 @@ Emergency + Abnormal Test Result Cases
 
 ## 1. Which medical condition affects the most patients?
 
-- Finding:
+Finding:
 
 Arthritis: 9,218 patients
 
